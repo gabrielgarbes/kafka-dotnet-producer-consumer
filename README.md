@@ -1,10 +1,10 @@
 # Creating a producer and consumer in .NET 8 with SaslSsl authentication
 
 ## Prerequisites
-O Visual Studio Code com a extensão C# instalada.
-Kit de Desenvolvimento do C# instalada
-O SDK do .NET 8.
-Openshift com o AmqStreams configurados
+O Visual Studio Code com a extensão C# instalada.<br>
+Kit de Desenvolvimento do C# instalada<br>
+O SDK do .NET 8.<br>
+Openshift com o AmqStreams configurados<br>
 
 ## Creating Producer project
 ~~~
